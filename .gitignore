@@ -1,0 +1,12 @@
+# Lock files de editores (LibreOffice/OpenOffice)
+.~lock.*#
+
+# Notas internas — NÃO publicar
+NOTES-internas.local.md
+*.local.md
+
+# Texto do artigo — publicado no Medium, não no repo
+artigo-medium.md
+
+# Config local do Claude Code
+.claude/
